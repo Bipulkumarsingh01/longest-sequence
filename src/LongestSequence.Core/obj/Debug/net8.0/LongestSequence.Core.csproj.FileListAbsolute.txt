@@ -1,0 +1,11 @@
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/bin/Debug/net8.0/LongestSequence.Core.deps.json
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/bin/Debug/net8.0/LongestSequence.Core.dll
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/bin/Debug/net8.0/LongestSequence.Core.pdb
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.AssemblyInfoInputs.cache
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.AssemblyInfo.cs
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.csproj.CoreCompileInputs.cache
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.dll
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/refint/LongestSequence.Core.dll
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/LongestSequence.Core.pdb
+/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net8.0/ref/LongestSequence.Core.dll

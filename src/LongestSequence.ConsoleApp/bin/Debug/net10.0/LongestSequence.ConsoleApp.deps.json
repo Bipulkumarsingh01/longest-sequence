@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LongestSequence.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "LongestSequence.Core": "1.0.0"
+        },
+        "runtime": {
+          "LongestSequence.ConsoleApp.dll": {}
+        }
+      },
+      "LongestSequence.Core/1.0.0": {
+        "runtime": {
+          "LongestSequence.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LongestSequence.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LongestSequence.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
