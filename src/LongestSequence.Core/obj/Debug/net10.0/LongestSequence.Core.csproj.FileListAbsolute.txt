@@ -9,3 +9,15 @@
 /Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net10.0/refint/LongestSequence.Core.dll
 /Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.pdb
 /Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/Debug/net10.0/ref/LongestSequence.Core.dll
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/bin/Debug/net10.0/LongestSequence.Core.deps.json
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/bin/Debug/net10.0/LongestSequence.Core.dll
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/bin/Debug/net10.0/LongestSequence.Core.pdb
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.AssemblyInfoInputs.cache
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.AssemblyInfo.cs
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.csproj.CoreCompileInputs.cache
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.sourcelink.json
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.dll
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/refint/LongestSequence.Core.dll
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/LongestSequence.Core.pdb
+/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/Debug/net10.0/ref/LongestSequence.Core.dll

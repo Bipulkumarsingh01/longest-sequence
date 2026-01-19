@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/tests/LongestSequence.Tests/LongestSequence.Tests.csproj": {}
+    "/Users/bipulkumarsingh/Kmart/longest-sequence/tests/LongestSequence.Tests/LongestSequence.Tests.csproj": {}
   },
   "projects": {
-    "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/LongestSequence.Core.csproj": {
+    "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/LongestSequence.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/LongestSequence.Core.csproj",
+        "projectUniqueName": "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/LongestSequence.Core.csproj",
         "projectName": "LongestSequence.Core",
-        "projectPath": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/LongestSequence.Core.csproj",
+        "projectPath": "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/LongestSequence.Core.csproj",
         "packagesPath": "/Users/bipulkumarsingh/.nuget/packages/",
-        "outputPath": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/obj/",
+        "outputPath": "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bipulkumarsingh/.nuget/NuGet/NuGet.Config"
@@ -337,14 +337,14 @@
         }
       }
     },
-    "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/tests/LongestSequence.Tests/LongestSequence.Tests.csproj": {
+    "/Users/bipulkumarsingh/Kmart/longest-sequence/tests/LongestSequence.Tests/LongestSequence.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/tests/LongestSequence.Tests/LongestSequence.Tests.csproj",
+        "projectUniqueName": "/Users/bipulkumarsingh/Kmart/longest-sequence/tests/LongestSequence.Tests/LongestSequence.Tests.csproj",
         "projectName": "LongestSequence.Tests",
-        "projectPath": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/tests/LongestSequence.Tests/LongestSequence.Tests.csproj",
+        "projectPath": "/Users/bipulkumarsingh/Kmart/longest-sequence/tests/LongestSequence.Tests/LongestSequence.Tests.csproj",
         "packagesPath": "/Users/bipulkumarsingh/.nuget/packages/",
-        "outputPath": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/tests/LongestSequence.Tests/obj/",
+        "outputPath": "/Users/bipulkumarsingh/Kmart/longest-sequence/tests/LongestSequence.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bipulkumarsingh/.nuget/NuGet/NuGet.Config"
@@ -359,8 +359,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/LongestSequence.Core.csproj": {
-                "projectPath": "/Users/bipulkumarsingh/.gemini/antigravity/scratch/solve_code_test/Solution/src/LongestSequence.Core/LongestSequence.Core.csproj"
+              "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/LongestSequence.Core.csproj": {
+                "projectPath": "/Users/bipulkumarsingh/Kmart/longest-sequence/src/LongestSequence.Core/LongestSequence.Core.csproj"
               }
             }
           }

@@ -6,13 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Support piping input or interactive mode
-        // If input is provided via args (though problem says "takes one string input", usually stdin for coding tests)
-        // or just read from Console.ReadLine
         
         string? input = null;
 
-        // If arguments are provided, join them, otherwise try reading from stdin
         if (args.Length > 0)
         {
             input = string.Join(" ", args);
